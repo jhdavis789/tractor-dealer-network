@@ -1,10 +1,10 @@
 {
-  "total_dealers": 14538,
-  "with_coordinates": 14531,
+  "total_dealers": 14572,
+  "with_coordinates": 14565,
   "by_parent_company": {
     "Deere & Company": 4374,
     "AGCO": 3967,
-    "CNH Industrial": 2746,
+    "CNH Industrial": 2780,
     "CLAAS": 1341,
     "Argo Tractors": 1315,
     "SDF Group": 795
@@ -13,15 +13,15 @@
     "John Deere": 4374,
     "Massey Ferguson": 1588,
     "Fendt": 1451,
-    "Case IH": 1366,
     "CLAAS": 1341,
     "New Holland": 1236,
+    "Case IH": 1133,
     "Valtra": 928,
     "McCormick": 747,
     "Landini": 568,
+    "STEYR": 411,
     "SAME": 394,
     "Deutz-Fahr": 346,
-    "STEYR": 144,
     "Lamborghini Tractors": 55
   },
   "by_country": {
@@ -30,7 +30,7 @@
       "name": "United States"
     },
     "DE": {
-      "count": 2374,
+      "count": 2386,
       "name": "Germany"
     },
     "FR": {
@@ -38,7 +38,7 @@
       "name": "France"
     },
     "IT": {
-      "count": 559,
+      "count": 560,
       "name": "Italy"
     },
     "ES": {
@@ -66,7 +66,7 @@
       "name": "Switzerland"
     },
     "PL": {
-      "count": 296,
+      "count": 301,
       "name": "Poland"
     },
     "NL": {
@@ -114,11 +114,11 @@
       "name": "Ireland"
     },
     "RO": {
-      "count": 101,
+      "count": 102,
       "name": "Romania"
     },
     "HU": {
-      "count": 77,
+      "count": 81,
       "name": "Hungary"
     },
     "AU": {
@@ -141,25 +141,29 @@
       "count": 51,
       "name": "Slovakia"
     },
+    "LT": {
+      "count": 43,
+      "name": "Lithuania"
+    },
     "EE": {
       "count": 42,
       "name": "Estonia"
     },
-    "LT": {
-      "count": 41,
-      "name": "Lithuania"
-    },
     "LV": {
-      "count": 39,
+      "count": 42,
       "name": "Latvia"
+    },
+    "SI": {
+      "count": 22,
+      "name": "Slovenia"
+    },
+    "HR": {
+      "count": 21,
+      "name": "Croatia"
     },
     "MX": {
       "count": 21,
       "name": "Mexico"
-    },
-    "HR": {
-      "count": 20,
-      "name": "Croatia"
     },
     "NZ": {
       "count": 20,
@@ -169,12 +173,8 @@
       "count": 18,
       "name": "Greece"
     },
-    "SI": {
-      "count": 18,
-      "name": "Slovenia"
-    },
     "RS": {
-      "count": 16,
+      "count": 17,
       "name": "Serbia"
     },
     "AR": {
